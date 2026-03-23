@@ -165,20 +165,6 @@ I design and build **high-performance, scalable systems** with a strong focus on
 
 ---
 
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Top Languages
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Contact
-📧 mohamedhossamabdleraham@gmail.com  
-
----
 
 ## ⚡ Mindset
 I don’t just build features — I design **systems that scale, perform, and push boundaries**.
